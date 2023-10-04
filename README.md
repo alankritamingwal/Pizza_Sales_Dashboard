@@ -25,3 +25,13 @@ I re-modelled the data relationship.
 I created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
 
 # FINAL RESULT 
+
+# HOME PAGE
+
+![home](https://github.com/alankritamingwal/Pizza_Sales_Dashboard/assets/58070305/f7a3aaef-fee9-446d-9c3a-dead7b408c03)
+
+# INSIGHTS
+
+![insight](https://github.com/alankritamingwal/Pizza_Sales_Dashboard/assets/58070305/818efc19-cb83-4a9b-8108-2cb34e4e9892)
+
+
